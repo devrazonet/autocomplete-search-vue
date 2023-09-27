@@ -1,0 +1,19 @@
+{
+  "data":[
+    {
+      "id":    150603,
+      "name":  "Salinópolis",
+      "label": "Salinópolis (PA)"
+    },
+    {
+      "id":    445111,
+      "name":  "Joaçaba",
+      "label": "Joaçaba (SC)"
+    },
+    {
+      "id":    847474,
+      "name":  "São Paulo",
+      "label": "São Paulo (SP)"
+    }
+  ]
+}
